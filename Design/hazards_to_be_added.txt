@@ -1,0 +1,2 @@
+JAL R7. AT WB stage will decide if A3 = "111" if it is true then flush previous pipelines and store PC+1 in R7. Therefore make R7_write as low.
+LLI R7 and LHI R7. the Hazard RR will take inputs as SE16, SE_LS, and DO1. and according to instruction will activate the mux RR_PC and give input to the DO1 mux from the three inputs (SE16,SE_LS,DO1). 

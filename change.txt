@@ -1,0 +1,3 @@
+LW followed by SW; Memory forwarding - 
+AR C -> use intermediate flags
+LW, LM should not have bubble

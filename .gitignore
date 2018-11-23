@@ -1,5 +1,3 @@
-*.bak
-
 *sopc_*
 *.jdi
 *.ptf.*
@@ -10,7 +8,6 @@
 *_inst.vhd
 *_generation_script*
 *.done
-*.txt
 *.qarlog
 *.rpt
 *.summary
@@ -26,7 +23,6 @@
 *.tcl
 *.pin
 *.mif
-*.hex
 *.o
 
 # ignore Quartus II generated folders
